@@ -1,2 +1,2 @@
 # DAV_Project
-in this project different analysis strategies are applied on Fog-Detection dataset
+In this project different analysis strategies are applied on Occupancy detection using PIR sensors
